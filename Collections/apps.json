@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "5eb97d9e87b1e712fc811963"
+  },
+  "app_avatar": "1.png",
+  "app_name": "Tatx App",
+  "app_stars": 5,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt. ",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": {
+    "0": [
+      "There are lots of things now that we want to do lots of things now",
+      "There are lots of things now that we want to do lots of things now",
+      "There are lots of things now that we want to do lots of things now"
+    ],
+    "1": [
+      "When you add a mail to a Connected App, it will also have a link to open the conversation in Newton on any device.",
+      "When you add a mail to a Connected App, it will also have a link to open the conversation in Newton on any device.",
+      "Notifications will be cleared for emails that are read in the app."
+    ],
+    "2": [
+      "Tidy Inbox bugs are fixed. You can now archive mails from Low Priority folders in Gmail accounts",
+      "Fixed crashes and squashed some annoying bugs.",
+      "The Paper Plane now has the thrust to take you to the next orbit."
+    ],
+    "3": [
+      "Disable signature for reply. The first reply will have the signature however, you can choose to disable it for subsequent replies",
+      "Fixed connection issue in iPhone where new emails were not showing until the app was killed.",
+      "Issues with replying to an email that has more than 30 inline attachments. Fixed."
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ece8c0f01745727249c3546"
+  },
+  "app_avatar": "2.png",
+  "app_name": "Health App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced84801745727249c354e"
+  },
+  "app_avatar": "3.png",
+  "app_name": "Tatx App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced84f01745727249c354f"
+  },
+  "app_avatar": "4.png",
+  "app_name": "Health App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced85601745727249c3550"
+  },
+  "app_avatar": "5.png",
+  "app_name": "Tatx App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced85b01745727249c3551"
+  },
+  "app_avatar": "6.png",
+  "app_name": "Health App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced86001745727249c3552"
+  },
+  "app_avatar": "7.png",
+  "app_name": "Tatx App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced86401745727249c3553"
+  },
+  "app_avatar": "8.png",
+  "app_name": "Health App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eced86801745727249c3554"
+  },
+  "app_avatar": "1.png",
+  "app_name": "Tatx App",
+  "app_stars": 4,
+  "app_desc": "Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.",
+  "app_googleplay_link": "https://www.google.com",
+  "app_applestore_link": "https://www.apple.com",
+  "app_screenshots": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png"
+  ],
+  "app_history": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "__v": 0
+}]
